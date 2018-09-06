@@ -168,6 +168,7 @@ class RoseWindow(object):
         hidden   Tk   object is constructed to control the event loop.
 
         Preconditions:
+          :rtype:
           :type width: int
           :type height: int
           :type title: str
