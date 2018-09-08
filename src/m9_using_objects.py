@@ -150,6 +150,11 @@ def lines():
     """
     # DONE Implement and test this function.
 
+    print()
+    print('--------------------------------------------------')
+    print('Lines:')
+    print('--------------------------------------------------')
+
     window = rg.RoseWindow(500,500)
 
     L1P1 = rg.Point(100,100)
