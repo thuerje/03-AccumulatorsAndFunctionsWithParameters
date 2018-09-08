@@ -11,7 +11,6 @@ Authors: Many, many people over many, many years.
 #   There is nothing for you to turn in from this file.
 # ----------------------------------------------------------------------
 
-
 def main():
     """ Calls the   TEST   functions in this module. """
     run_test_sum_squares()
