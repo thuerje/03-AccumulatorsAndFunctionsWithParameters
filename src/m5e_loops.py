@@ -12,7 +12,6 @@ Authors: Many, many people over many, many years.
 #           Make sure that you understand all 3 examples.
 # ----------------------------------------------------------------------
 
-
 def main():
     """ Calls the other functions to demonstrate and/or test them. """
     example1()
